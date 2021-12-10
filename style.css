@@ -1,0 +1,19 @@
+footer {
+    background-color: black;
+}
+
+li {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+}
